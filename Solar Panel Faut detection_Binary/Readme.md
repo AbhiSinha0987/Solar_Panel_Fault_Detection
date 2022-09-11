@@ -4,7 +4,10 @@ Building a convolutional neural network that will be trained on images of faulty
 
 Using Keras deep learning library in python to build CNN(Convolutional Neural Network)
 
-Building Model:
+# Type of Data
+Thermal images for solar panel (.jpeg)
+
+# Building Model:
 
 The process of building a Convolutional Neural Network always involves four major steps.
 
