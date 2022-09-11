@@ -4,3 +4,11 @@ In 'Example Prediction AllInOne' this is the example of how implement all traine
 
 # Type of Data
 The images used for the design of this model were extracted by air analysis, specifically: FLIR aerial radiometric thermal infrared pictures, taken by UAV (R-JPEG format). Which were converted into .jpg images for the training of these detection models
+
+# CNN model to perform multiple faults in Solar Panels:  
+### Type of Fault
+#### 1: Soiling Fault
+#### 2: Affected Cell 
+#### 4: Diode Fault
+#### disc: Panel Disconnected
+
